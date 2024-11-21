@@ -1,0 +1,5 @@
+LT1 DELL 5.78
+LT2 ACER 4.90
+LT3 DELL 3.80
+2
+lap gia cao nhat la: LT1 DELL 5.78

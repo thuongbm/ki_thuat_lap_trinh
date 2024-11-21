@@ -1,0 +1,2 @@
+tong diem cua truong A= 13, B= 5, C=0
+thi sinh diem cao nhat trong 3 thi sinh la: sv1 7 A

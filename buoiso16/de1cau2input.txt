@@ -1,0 +1,10 @@
+3
+sv1
+nam dinh
+C
+sv2
+nam dinh
+A
+sv3
+thai binh
+B

@@ -1,0 +1,10 @@
+3
+sv1
+hoa binh
+A
+sv2
+tphcm
+B
+sv3
+hanoi
+A

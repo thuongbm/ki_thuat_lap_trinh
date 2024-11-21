@@ -1,0 +1,5 @@
+
+danh sach sinh vien thoa man la: 
+sv1 10 A
+sv2 9 A
+sv3 7 B

@@ -1,0 +1,7 @@
+bui minh tien 10.00 A
+nguyen thi ngan 5.00 A
+pham van co 9.00 B
+
+bui minh tien 10.00 A
+nguyen thi ngan 5.00 A
+pham van co 9.00 B

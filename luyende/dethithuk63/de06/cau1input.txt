@@ -1,0 +1,10 @@
+3
+bui minh tien
+10
+A
+nguyen thi ngan
+5
+A
+pham van co
+9
+B

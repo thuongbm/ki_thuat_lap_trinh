@@ -1,0 +1,10 @@
+3
+LT1
+DELL
+5.78
+LT2
+ACER
+4.9
+LT3
+DELL
+3.8

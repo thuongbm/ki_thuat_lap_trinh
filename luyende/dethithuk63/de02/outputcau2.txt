@@ -1,0 +1,12 @@
+123 s1 tg1 2014 5000
+321 s2 tg2 2015 10000
+231 s3 tg3 2020 15000
+
+
+quyen sach can tim la: 
+321 s2 tg2 2015 10000
+
+thu tu sau khi duoc sap xep la
+123 s1 tg1 2014 5000
+321 s2 tg2 2015 10000
+231 s3 tg3 2020 15000
